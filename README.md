@@ -1,5 +1,5 @@
 # 💫 Hi, I Am L Kalyan Kumar 
-I’m currently working in Tata Consultancy as A Java Developer
+I’m currently working in Tata Consultancy Services as A Java Developer
 
 
 ## 🌐 Socials:
